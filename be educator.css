@@ -1,0 +1,80 @@
+.Card-Container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.icons {
+  width: 50px;
+  height: 50px;
+}
+
+.social-icons {
+  width: 20px;
+  height: 20px;
+}
+
+.Home-img-size {
+  width: 900px;
+  height: 900px;
+}
+#Back-Ground-Circle-1 {
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top:30px;
+    width: 400px;
+    height: 400px;
+    background: #F4DFE2;
+    
+  }
+  #Back-Ground-Circle-2 {
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 100px;
+    margin-top: 60px;
+    width: 200px;
+    height: 200px;
+    background: #EABDC2;
+  }
+
+  #Back-Ground-Circle-3 {
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 1200px;
+    margin-top:0px;
+    width: 300px;
+    height: 300px;
+    background: #DD979F;
+  }
+  #Back-Ground-Circle-4{
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 900px;
+    margin-top:0px;
+    width: 100px;
+    height: 100px;
+    background: #F0D1D4;
+  }
+
+  
+  .margin-form{
+    height:800px;
+    margin: 50px 250px ;
+    background-color: #65B897;
+  }
+  .margen-left{
+   
+    margin-left: 100px;
+    margin-top: 5px;
+  }
+
+  /* make select your level gray and other option black*/
+  select:required:invalid {
+    color:gray;
+  }
+  option {
+    color: black;
+    
+  }
+  
+  

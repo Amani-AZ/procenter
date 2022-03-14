@@ -1,0 +1,45 @@
+
+.Card-Container {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .icons {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .social-icons {
+    width: 20px;
+    height: 20px;
+  }
+  
+  .Home-img-size {
+    width: 900px;
+    height: 900px;
+  }
+.margin-top{
+    margin-top: 50px;
+    
+}
+.for-height-dark-green{
+    height: 350px;
+    padding-top: 80px;
+   background-color: #65B897;
+}
+.light-green{
+    background-color: #A5CDBD;
+}
+.for-height-pink{
+    height: 350px;
+    padding-top: 80px;
+   background-color: #F0D1D4;
+}
+.for-height-light-green{
+    height: 350px;
+    padding-top: 80px;
+   background-color: #A5CDBD;
+}
+
+
+
